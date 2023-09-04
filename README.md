@@ -53,6 +53,14 @@
         </td>
         <td><a href="https://replyre.github.io/React-Quiz-App/"> ❓</a></td>
       </tr>
+       <td>▷</td>
+        <td>Travel Blog &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/travelBlog">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td>✘</td>
+      </tr>
     </table>
 
 ## Javascript Projects:
