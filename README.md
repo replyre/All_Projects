@@ -2,7 +2,7 @@
 
 ## React Projects: 
 
-<table>
+<table align="center">
       <tr>
         <th></th>
         <th>Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
@@ -19,13 +19,13 @@
       <tr>
         <td>▷</td>
         <td>eShop App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="#">✘</a> &nbsp;&nbsp;</td>
+        <td>✘ &nbsp;&nbsp;</td>
         <td><a href="https://eshop-replyr.web.app/"> 🛒</a></td>
       </tr>
       <tr>
         <td>▷</td>
         <td>Blogging Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="#">✘</a> &nbsp;&nbsp;</td>
+        <td>✘ &nbsp;&nbsp;</td>
         <td><a href="https://replyre.github.io/blog/"> 📃</a></td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@
         <td>
           <a href="https://github.com/replyre/Movie_App">Here</a> &nbsp;&nbsp;
         </td>
-        <td><a href=""> ✘</a></td>
+        <td>✘</td>
       </tr>
       <tr>
         <td>▷</td>
