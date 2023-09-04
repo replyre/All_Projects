@@ -7,7 +7,7 @@
         <th></th>
         <th>Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>
-         <img src="https://www.freeiconspng.com/uploads/github-logo-icon-5.png" width="30" height="30" alt=" Github Logo " />
+    <img src="https://www.freeiconspng.com/uploads/github-cat-in-a-circle-icon-21.png" width="30" height="30" alt="Github Icon" />
         </th>
         <th>View</th>
       </tr>
@@ -65,7 +65,7 @@
         <th></th>
         <th>Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
         <th>
-          <img src="https://www.freeiconspng.com/uploads/github-logo-icon-5.png"  width="30" height="30" alt=" Github Logo " />
+    <img src="https://www.freeiconspng.com/uploads/github-cat-in-a-circle-icon-21.png" width="30" height="30" alt="Github Icon" />
         </th>
         <th>View</th>
       </tr>
