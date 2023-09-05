@@ -69,6 +69,15 @@
         </th>
         <th>View</th>
       </tr>
+       <tr>
+        <td>▷</td>
+        <td>Notes App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/Notes_APP">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/Notes_APP/"> 🖉</a></td>
+      </tr>
       <tr>
         <td>▷</td>
         <td>English Dictionary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
