@@ -69,14 +69,23 @@
         </th>
         <th>View</th>
       </tr>
-       <tr>
+        <tr>
         <td>▷</td>
-        <td>Notes App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>TO-Do App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/Notes_APP">Here</a>
           &nbsp;&nbsp;
         </td>
-        <td><a href="https://replyre.github.io/Notes_APP/"> 🖉</a></td>
+        <td><a href="https://replyre.github.io/Notes_APP/"> 🔖</a></td>
+      </tr>
+       <tr>
+        <td>▷</td>
+        <td>Notes App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/Todo_App">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/Todo_App/"> 🖉</a></td>
       </tr>
       <tr>
         <td>▷</td>
