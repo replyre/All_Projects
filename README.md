@@ -11,6 +11,12 @@
         </th>
         <th>View</th>
       </tr>
+       <tr>
+        <td>▷</td>
+        <td>Crypto Provider &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a href="https://github.com/replyre/Crypto_info">Here</a> &nbsp;&nbsp;</td>
+        <td><a href="https://crypto-provider.web.app/"> ₿</a></td>
+      </tr>
       <tr>
         <td>▷</td>
         <td>eShop App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
