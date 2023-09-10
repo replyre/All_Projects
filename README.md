@@ -11,6 +11,12 @@
         </th>
         <th>View</th>
       </tr>
+        <tr>
+        <td>▷</td>
+        <td>DashBoard_UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a href="https://github.com/replyre/DashBoard_UI">Here</a> &nbsp;&nbsp;</td>
+        <td><a href="https://dashboard-replyre.web.app/"> ⬜</a></td>
+      </tr>
        <tr>
         <td>▷</td>
         <td>Crypto Provider &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
