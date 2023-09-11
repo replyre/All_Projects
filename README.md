@@ -66,7 +66,7 @@
           <a href="https://github.com/replyre/travelBlog">Here</a>
           &nbsp;&nbsp;
         </td>
-        <td>✘</td>
+        <td> <a href="https://movieapp-replyre.web.app/">Here</a>">🎥</a></td>
       </tr>
     </table>
 
