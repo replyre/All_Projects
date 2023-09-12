@@ -17,6 +17,12 @@
         <td><a href="https://github.com/replyre/DashBoard_UI">Here</a> &nbsp;&nbsp;</td>
         <td><a href="https://dashboard-replyre.web.app/"> ⬜</a></td>
       </tr>
+      <tr>
+        <td>▷</td>
+        <td>Tic Tac Toe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a href="https://github.com/replyre/Tic_Tac_Toe-React">Here</a> &nbsp;&nbsp;</td>
+        <td><a href="https://replyre.github.io/Tic_Tac_Toe-React/"> 🞅</a></td>
+      </tr>
        <tr>
         <td>▷</td>
         <td>Crypto Provider &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
