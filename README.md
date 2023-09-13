@@ -89,6 +89,15 @@
       </tr>
         <tr>
         <td>▷</td>
+        <td>Sudoku Solver &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/Sudoku_Solver/">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/Sudoku_Solver/"> ▒▒</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
         <td>Notes App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/Notes_APP">Here</a>
