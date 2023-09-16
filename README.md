@@ -91,6 +91,15 @@
         <td>▷</td>
         <td>Sudoku Solver &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
+          <a href="https://github.com/replyre/TextEditor">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/TextEditor/"> 🖺</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
+        <td>Sudoku Solver &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
           <a href="https://github.com/replyre/Sudoku_Solver/">Here</a>
           &nbsp;&nbsp;
         </td>
