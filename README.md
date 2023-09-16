@@ -89,7 +89,7 @@
       </tr>
         <tr>
         <td>▷</td>
-        <td>Sudoku Solver &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Text Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/TextEditor">Here</a>
           &nbsp;&nbsp;
