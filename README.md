@@ -89,6 +89,15 @@
       </tr>
         <tr>
         <td>▷</td>
+        <td>Country Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/country_info_provider">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/country_info_provider/"> 🖺</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
         <td>Text Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/TextEditor">Here</a>
