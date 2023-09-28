@@ -95,6 +95,15 @@
       </tr>
         <tr>
         <td>▷</td>
+        <td>Weather App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/WeatherAPP">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/WeatherAPP/"> ⛄</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
         <td>Country Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/country_info_provider">Here</a>
