@@ -93,6 +93,15 @@
         </th>
         <th>View</th>
       </tr>
+       <tr>
+        <td>▷</td>
+        <td>Text Encryptor APP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/TextEncryptorApp">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/TextEncryptorApp/"> 🀄</a></td>
+      </tr>
          <tr>
         <td>▷</td>
         <td>Password Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
