@@ -93,6 +93,15 @@
         </th>
         <th>View</th>
       </tr>
+         <tr>
+        <td>▷</td>
+        <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/ColorPicker">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/ColorPicker/"> 💧</a></td>
+      </tr>
         <tr>
         <td>▷</td>
         <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
