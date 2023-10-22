@@ -95,7 +95,7 @@
       </tr>
          <tr>
         <td>▷</td>
-        <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Color Picker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/ColorPicker">Here</a>
           &nbsp;&nbsp;
