@@ -93,6 +93,15 @@
         </th>
         <th>View</th>
       </tr>
+          <tr>
+        <td>▷</td>
+        <td>Memeory game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/memory_game">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://github.com/replyre/memory_game"> 📜</a></td>
+      </tr>
          <tr>
         <td>▷</td>
         <td>Color Picker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
