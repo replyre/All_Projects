@@ -93,6 +93,15 @@
         </th>
         <th>View</th>
       </tr>
+       <tr>
+        <td>▷</td>
+        <td>Stopwatch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/stop-watch">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/stop-watch/"> ⏱</a></td>
+      </tr>
           <tr>
         <td>▷</td>
         <td>Memeory game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
