@@ -93,6 +93,15 @@
         </th>
         <th>View</th>
       </tr>
+         <tr>
+        <td>▷</td>
+        <td>Snake & Pong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/Snake-Pong">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://replyre.github.io/Snake-Pong/"> ⮓</a></td>
+      </tr>
        <tr>
         <td>▷</td>
         <td>Stopwatch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
