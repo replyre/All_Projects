@@ -95,6 +95,15 @@
       </tr>
         <tr>
         <td>▷</td>
+        <td>Text Shadow Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/text-shadow-generator">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="https://codepen.io/replyre/pen/VwgOdPp"> 👤</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
         <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/AlarmClock">Here</a>
