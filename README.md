@@ -113,7 +113,7 @@
       </tr>
           <tr>
         <td>▷</td>
-        <td>Memeory game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>Memory game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/memory_game">Here</a>
           &nbsp;&nbsp;
