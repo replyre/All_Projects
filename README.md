@@ -95,6 +95,15 @@
       </tr>
         <tr>
         <td>▷</td>
+        <td>Live Code Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td>
+          <a href="https://github.com/replyre/Online-Code-Editor">Here</a>
+          &nbsp;&nbsp;
+        </td>
+        <td><a href="replyre.github.io/Online-Code-Editor/">  💎</a></td>
+      </tr>
+        <tr>
+        <td>▷</td>
         <td>Text Shadow Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td>
           <a href="https://github.com/replyre/text-shadow-generator">Here</a>
