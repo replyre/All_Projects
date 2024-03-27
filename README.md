@@ -100,7 +100,7 @@
           <a href="https://github.com/replyre/Online-Code-Editor">Here</a>
           &nbsp;&nbsp;
         </td>
-        <td><a href="replyre.github.io/Online-Code-Editor/">  💎</a></td>
+        <td><a href="https://replyre.github.io/Online-Code-Editor/">  💎</a></td>
       </tr>
         <tr>
         <td>▷</td>
