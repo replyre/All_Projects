@@ -1,294 +1,58 @@
-# All Project:
+# ALL Projects
 
-## React Projects: 
+### Nextjs Projects
 
-<table align="center">
-      <tr>
-        <th></th>
-        <th>Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>
-    <img src="https://www.freeiconspng.com/uploads/github-cat-in-a-circle-icon-21.png" width="30" height="30" alt="Github Icon" />
-        </th>
-        <th>View</th>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Foodi's World &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="https://github.com/replyre/FoodisWorld">Here</a> &nbsp;&nbsp;</td>
-        <td><a href="https://foodisworld.web.app/">  🍔</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>DashBoard_UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="https://github.com/replyre/DashBoard_UI">Here</a> &nbsp;&nbsp;</td>
-        <td><a href="https://dashboard-replyre.web.app/"> ⬜</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Tic Tac Toe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="https://github.com/replyre/Tic_Tac_Toe-React">Here</a> &nbsp;&nbsp;</td>
-        <td><a href="https://replyre.github.io/Tic_Tac_Toe-React/"> 🞅</a></td>
-      </tr>
-       <tr>
-        <td>▷</td>
-        <td>Crypto Provider &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td><a href="https://github.com/replyre/Crypto_info">Here</a> &nbsp;&nbsp;</td>
-        <td><a href="https://crypto-provider.web.app/"> ₿</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>eShop App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>✘ &nbsp;&nbsp;</td>
-        <td><a href="https://eshop-replyr.web.app/"> 🛒</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Blogging Website &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>✘ &nbsp;&nbsp;</td>
-        <td><a href="https://replyre.github.io/blog/"> 📃</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Movie App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Movie_App">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://movieapp-replyre.web.app/">🎥</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Recipe App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Recipe_App">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://recipe-app-872e3.web.app/"> 🍳</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Quiz App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/React-Quiz-App">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/React-Quiz-App/"> ❓</a></td>
-      </tr>
-       <td>▷</td>
-        <td>Travel Blog &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/travelBlog">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td>✘ </td>
-      </tr>
-    </table>
+| Project Name                     | Description                                                                         | Image                                                                                                                      | Tech Used                                           | GitHub                                                | Live                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Bookverse                        | A CRUD application built using NEXT.js and MongoDB                                  | ![Bookverse](https://private-user-images.githubusercontent.com/121796450/354179298-adc07bfd-0ba9-4c95-a5de-ad08cc0fd017.png) | Nextjs, MongoDB, React, Mongoose, TailwindCSS, TypeScript | W/P                                                   | W/P                                                  |
+| Project Management Dashboard     | An application built with Next.js for managing projects, tasks, and team members    | ![Project Management Dashboard](https://raw.githubusercontent.com/replyre/All_Projects/main/pmanager.png)                   | Nextjs, React, TailwindCSS, zustand, AntDesign, SweetAlert2 | [GitHub](https://github.com/replyre/project-management-dashboard) | [Live](https://project-management-dashboard-one.vercel.app/) |
 
-## Javascript Projects:
+### MERN Projects
 
- <table align="center">
-      <tr>
-        <th></th>
-        <th>Project Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-        <th>
-    <img src="https://www.freeiconspng.com/uploads/github-cat-in-a-circle-icon-21.png" width="30" height="30" alt="Github Icon" />
-        </th>
-        <th>View</th>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Live Code Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Online-Code-Editor">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Online-Code-Editor/">  💎</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Text Shadow Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/text-shadow-generator">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://codepen.io/replyre/pen/VwgOdPp"> 👤</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/AlarmClock">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="replyre.github.io/AlarmClock/"> ⏰</a></td>
-      </tr>
-         <tr>
-        <td>▷</td>
-        <td>Snake & Pong &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Snake-Pong">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Snake-Pong/"> ⮓</a></td>
-      </tr>
-       <tr>
-        <td>▷</td>
-        <td>Stopwatch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/stop-watch">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/stop-watch/"> ⏱</a></td>
-      </tr>
-          <tr>
-        <td>▷</td>
-        <td>Memory game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/memory_game">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://github.com/replyre/memory_game"> 📜</a></td>
-      </tr>
-         <tr>
-        <td>▷</td>
-        <td>Color Picker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/ColorPicker">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/ColorPicker/"> 💧</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Alarm Clock &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/AlarmClock">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/AlarmClock/"> ⏰</a></td>
-      </tr>
-       <tr>
-        <td>▷</td>
-        <td>Text Encryptor APP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/TextEncryptorApp">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/TextEncryptorApp/"> 🀄</a></td>
-      </tr>
-         <tr>
-        <td>▷</td>
-        <td>Password Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/PasswordGenerator">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/PasswordGenerator/"> 📟</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Weather App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/WeatherAPP">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/WeatherAPP/"> ⛄</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Country Card &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/country_info_provider">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/country_info_provider/"> 🗾</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Text Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/TextEditor">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/TextEditor/"> 🖺</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Sudoku Solver &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Sudoku_Solver/">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Sudoku_Solver/"> ▒▒</a></td>
-      </tr>
-        <tr>
-        <td>▷</td>
-        <td>Notes App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Notes_APP">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Notes_APP/"> 🖉</a></td>
-      </tr>
-       <tr>
-        <td>▷</td>
-        <td>To-Do App &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Todo_App">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Todo_App/"> 🔖</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>English Dictionary &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/Eng_Dictionary">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/Eng_Dictionary/"> 📓</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>FeedBack UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://replyre.github.io/Feedback_UI/">Here</a>
-          &nbsp;&nbsp;
-        </td>
-        <td><a href="https://github.com/replyre/Feedback_UI"> 🔢</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Jokes Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/DadJokes">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://dadjokes-a0d8c.web.app/"> 🤣</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Drag&Drop &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/DragDrop">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/DragDrop/"> ⮑</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Tetris &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/tetris-game">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/tetris-game/">💠</a></td>
-      </tr>
-      <tr>
-        <td>▷</td>
-        <td>Snake Game &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td>
-          <a href="https://github.com/replyre/snake-game">Here</a> &nbsp;&nbsp;
-        </td>
-        <td><a href="https://replyre.github.io/snake-game/">🐍</a></td>
-      </tr>
-    </table>
+| Project Name                     | Description                                                                         | Image                                                                                                                      | Tech Used                                           | GitHub                                                | Live                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| MERN Face Recognition App        | A face recognition system built with MERN stack and face-api.js                     | ![Face Recognition](https://private-user-images.githubusercontent.com/121796450/319318909-70848b3b-e41a-4f02-8cf6-ea0b4d8737b2.png) | React, Express, TailwindCSS, NodeJS, FaceApi, MongoDB, Mongoose | [GitHub](https://github.com/replyre/face-recognition-mern-app) | [Live](face-recognition-mern-app.vercel.app/)       |
+| Calculator                       | A scientific calculator that stores previous data in MongoDB                        | ![Calculator](https://private-user-images.githubusercontent.com/121796450/328232296-701b0aba-4ce1-424f-b37f-1e002051fbcd.png) | Javascript, Express, NodeJS, MongoDB, Mongoose     | [GitHub](https://github.com/replyre/calculator-JS-MongoDB)  | ---                                                  |
 
-## Utilities:
- A repository for reuseble components of HTML CSS and Javascript
-### [Visit](https://github.com/replyre/Utities)
+### React Mini Projects
+
+| Project Name                     | Description                                                                         | Image                                                                                                                      | Tech Used                                           | GitHub                                                | Live                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Language Translator App          | Google Translate clone                                                              | ![Language Translator](https://private-user-images.githubusercontent.com/121796450/355037071-762d1c49-a01f-434c-a025-fb4b665f1820.png) | React, Rapid Api                                    | [GitHub](https://github.com/replyre/translator-app)   | [Live](translator-app-sigma.vercel.app)              |
+| Markdown Application             | An application to create GitHub readme files                                        | ![Markdown Application](https://private-user-images.githubusercontent.com/121796450/355027455-cb1ac36e-919b-4b15-9d82-7459b64544fb.png) | React, React Markdown                               | [GitHub](https://github.com/replyre/markdown-app)     | [Live](replyre.github.io/markdown-app/)              |
+| Todo Grocery App                 | A simple Todo application demonstrating useReducer() hook                           | ![Todo Grocery App](https://raw.githubusercontent.com/replyre/All_Projects/main/grocery.png)                              | React                                               | [GitHub](https://github.com/replyre/grocery-todo-app) | [Live](https://replyre.github.io/grocery-todo-app/)  |
+| Tic-Tac-Toe                      | A classic game with a beautiful UI                                                  | ![Tic-Tac-Toe](https://raw.githubusercontent.com/replyre/All_Projects/main/tictactoe.png)                                 | React                                               | [GitHub](https://github.com/replyre/Tic_Tac_Toe-React)| [Live](https://replyre.github.io/Tic_Tac_Toe-React/) |
+
+### React Projects
+
+| Project Name                     | Description                                                                         | Image                                                                                                                      | Tech Used                                           | GitHub                                                | Live                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| FoodisWorld                      | Front-end for a food website                                                        | ![FoodisWorld](https://raw.githubusercontent.com/replyre/All_Projects/main/FoodisWorld.png)                                | React, Tailwind                                     | [GitHub](https://github.com/replyre/FoodisWorld)      | [Live](https://foodisworld.web.app/)                 |
+| TextExtras                       | A simple application providing basic text features                                  | ![TextExtras](https://raw.githubusercontent.com/replyre/All_Projects/main/textExtras.png)                                  | React                                               | [GitHub](https://github.com/replyre/textExtras)       | [Live](https://replyre.github.io/textExtras/)        |
+| GreatFoods                       | A template for a food company website                                               | ![GreatFoods](https://raw.githubusercontent.com/replyre/Geekfood/main/greatFood.png)                                       | React                                               | [GitHub](https://github.com/replyre/Geekfood)         | [Live](geekfood-zeta.vercel.app)                     |
+| Crypto Info                      | An application providing info about the cryptocurrency market prices                | ![Crypto Info](https://private-user-images.githubusercontent.com/121796450/348572706-0f415f30-cdf6-42cf-9034-27ebf083dfb4.png) | React, CoinGeckoAPI                                 | [GitHub](https://github.com/replyre/Crypto_info)      | [Live](crypto-provider.web.app/)                     |
+| Recipe Provider                  | A recipe website to view and bookmark recipes using Edamam API                      | ![Recipe Provider](https://github.com/replyre/Recipe_App/blob/main/Screenshots/1)loggedIn_Home.png                         | React, EdamamAPI                                    | [GitHub](https://github.com/replyre/Recipe_App)       | [Live](recipe-app-872e3.web.app/)                    |
+
+### Javascript Projects
+
+| Project Name                     | Description                                                                         | Image                                                                                                                      | Tech Used                                           | GitHub                                                | Live                                                 |
+|----------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| Weather App                      | Interactive weather app with dynamic features                                       | ![Weather App](https://raw.githubusercontent.com/replyre/WeatherAPP/main/images/Screenshot%20Weather%20App.png)            | React, OpenWeatherMapAPI                            | [GitHub](https://github.com/replyre/WeatherAPP)       | [Live](replyre.github.io/WeatherAPP/)                |
+| Poke Info                        | An application providing information about Pokémons                                 | ![Poke Info](https://raw.githubusercontent.com/replyre/All_Projects/main/poke.png)                                         | React, PokemonAPI                                   | [GitHub](https://github.com/replyre/poke-info)        | [Live](replyre.github.io/poke-info/)                 |
+| CrickInfo                        | A chrome extension to view current cricket matches and live scores                  | ![CrickInfo](https://private-user-images.githubusercontent.com/121796450/340764476-365de6b0-b1be-4484-92b6-57e92c2a2c3e.png)| React, Chrome Extension                             | [GitHub](https://github.com/replyre/CricInfo)         | ---                                                  |
+| Tetris                           | A simple Tetris game                                                                | ![Tetris](https://raw.githubusercontent.com/replyre/All_Projects/main/Screenshot%20(490).png)                              | HTML, CSS, JavaScript                               | [GitHub](https://github.com/replyre/tetris-game)      | [Live](https://replyre.github.io/tetris-game/)       |
+| Memory Game                      | A classic memory game                                                               | ![Memory Game](https://private-user-images.githubusercontent.com/121796450/278437730-3869c4fb-c4f1-4793-aac9-ca63c2236262.png) | HTML, CSS, JavaScript                               | [GitHub](https://github.com/replyre/memory-game)      | ---                                                  |
+
+
+### Javascript Mini Projects
+
+| Project Name           | Description                                 | Image                                                                                                                      | Tech Used                 | GitHub                                               | Live                                                   |
+|------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------------------|--------------------------------------------------------|
+| Live Code Editor       | Simple Codepen Clone built in 5 minutes.    | ![Live Code Editor](https://private-user-images.githubusercontent.com/121796450/313085394-cdca79ef-240b-4cf1-9f2a-7631419aa083.png) | HTML, CSS, JavaScript     | [GitHub](https://github.com/replyre/Online-Code-Editor) | [Live](https://replyre.github.io/Online-Code-Editor/) |
+| Text Shadow Generator  | A tool to generate CSS text shadows.        | ![Text Shadow Generator](https://example.com/text-shadow-generator.png)                                                    | HTML, CSS, JavaScript     | [GitHub](https://github.com/example/text-shadow-generator) | [Live](https://example.github.io/text-shadow-generator/) |
+| Alarm Clock            | A functional alarm clock built with JavaScript. | ![Alarm Clock](https://example.com/alarm-clock.png)                                                                       | HTML, CSS, JavaScript     | [GitHub](https://github.com/example/alarm-clock)    | [Live](https://example.github.io/alarm-clock/)       |
+| Password Generator     | A tool to generate secure passwords.        | ![Password Generator](https://raw.githubusercontent.com/replyre/All_Projects/main/passGenerator.png)                      | HTML, CSS, JavaScript     | [GitHub](https://github.com/replyre/PasswordGenerator) | [Live](https://replyre.github.io/PasswordGenerator/)  |
+| Text Editor            | A simple text editor.                       | ![Text Editor](https://raw.githubusercontent.com/replyre/All_Projects/main/TextEditor.png)                                | HTML, CSS, JavaScript     | [GitHub](https://github.com/replyre/TextEditor)      | [Live](https://replyre.github.io/TextEditor/)        |
+| Sudoku Solver          | An app to solve Sudoku puzzles.             | ![Sudoku Solver](https://raw.githubusercontent.com/replyre/All_Projects/main/SudokuSolver.png)                            | HTML, CSS, JavaScript     | [GitHub](https://github.com/replyre/Sudoku_Solver/)  | [Live](https://replyre.github.io/Sudoku_Solver/)     |
+| English Dictionary     | An app to look up English words.            | ![English Dictionary](https://private-user-images.githubusercontent.com/121796450/273465790-74219858-7bcd-48fa-9b67-dc56a4daedd8.png) | HTML, CSS, JavaScript     | [GitHub](https://github.com/replyre/Eng_Dictionary)  | [Live](https://replyre.github.io/Eng_Dictionary/)    |
+| FeedBack UI            | An app to gather feedback from users.       | ![FeedBack UI](https://raw.githubusercontent.com/replyre/All_Projects/main/FeedBackUI.png)                                | HTML, CSS, JavaScript, FormToSubmit | [GitHub](https://replyre.github.io/Feedback_UI/)     | [Live](https://github.com/replyre/Feedback_UI)       |
